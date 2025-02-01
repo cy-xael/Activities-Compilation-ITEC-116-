@@ -6,6 +6,24 @@ Compilation of my activities in the subject ITEC 116 and serves as the subjects 
 
 This repository contains the code for the API development activities completed for ITEC 116. Each folder represents a different activity.
 
+## Activity 1: Introduction to FastAPI
+
+**Folder:** `lab1`
+
+This activity introduces the FastAPI framework and demonstrates basic API creation. 
+
+**Key Concepts:**
+
+*   **FastAPI:**  A modern, fast, and efficient framework for building APIs in Python.
+*   **Endpoints:**  Defining routes and handling requests with specific HTTP methods.
+*   **Data Response:**  Returning data to clients in JSON format.
+
+**Usage:**
+
+1.  **Install Dependencies:** `pip install fastapi uvicorn`
+2.  **Run the API:** `uvicorn main:app --reload`
+3.  **Test the API:** Use curl or Postman to make requests to the defined endpoints.
+
 ## Activity 2: Simple API with Factorial Calculation
 
 **Folder:** `lab2`

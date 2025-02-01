@@ -167,6 +167,7 @@ plaintext
 You'll need to run the API and then open `http://127.0.0.1:8000/docs` in your browser to see the Swagger UI documentation, which will provide a visual representation of the API endpoints.
 
 **GitHub Link**
+https://github.com/cy-xael/Laboratory-Activity-2.git
 
 
 1. **Create a new GitHub repository**.
